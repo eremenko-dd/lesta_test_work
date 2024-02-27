@@ -18,5 +18,3 @@ def isEvenMod(self):
 В теории, кострукция not bool(self % 2) должна выполниться быстрее, чем
 value % 2 == 0
 """
-
-isEvenMod(11)
